@@ -7,6 +7,7 @@ test.py does python code for face detection with Coordinates.
 Alternative:
 
 Step 1: try npm install
+
 Step 1 : npm install -g live-server
 
 Step 2 : live-server
